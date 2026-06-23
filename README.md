@@ -24,9 +24,11 @@ Numerical features
 Categorical features 
 
 → filled with mode
+
 Exploratory Data Analysis (EDA)
 Used Matplotlib and Seaborn for visualization
 Created:
+
 Scatter plots (feature relationships)
 Histograms (distribution analysis)
 Count plots (categorical comparisons)
