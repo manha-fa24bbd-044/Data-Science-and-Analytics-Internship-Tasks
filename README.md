@@ -17,15 +17,17 @@ Explored dataset shape, columns, and sample records
 Data Cleaning
 Identified missing values in the loan dataset
 Handled missing data:
-Numerical features → filled with median
-Categorical features → filled with mode
+Numerical features 
+→ filled with median
+Categorical features 
+→ filled with mode
 Exploratory Data Analysis (EDA)
 Used Matplotlib and Seaborn for visualization
 Created:
 Scatter plots (feature relationships)
 Histograms (distribution analysis)
 Count plots (categorical comparisons)
-Box plots (outliers & spread – implied)
+Box plots (outliers & spread implied)
 Feature Analysis
 Examined relationships between variables like income, loan amount, and loan status
 Compared categorical features (gender, education, property area, etc.) against loan approval
