@@ -18,8 +18,11 @@ Data Cleaning
 Identified missing values in the loan dataset
 Handled missing data:
 Numerical features 
+
 → filled with median
+
 Categorical features 
+
 → filled with mode
 Exploratory Data Analysis (EDA)
 Used Matplotlib and Seaborn for visualization
